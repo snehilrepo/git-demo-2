@@ -4,9 +4,7 @@
 42git
 5
 6
-7
-snehil
-anand
+ganand
 bhopal
 orintal bhopalgit add.
 scaler
